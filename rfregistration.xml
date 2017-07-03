@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension version="3.0" type="plugin" group="user" method="upgrade">
+	<name>plg_user_rfregistration</name>
+	<author>Danila Shkerin</author>
+	<creationDate>2017-07-01</creationDate>
+	<copyright>Danila Shkerin</copyright>
+	<license>GNU General Public License version 2 or later.</license>
+	<authorEmail>dscelt@gmail.com</authorEmail>
+	<authorUrl>keleth.myftp.biz</authorUrl>
+	<version>1.0</version>
+	<description>PLG_USER_RFREGISTRATION_XML_DESCRIPTION</description>
+	
+	<files>
+		<filename plugin="rfregistration">rfregistration.php</filename>
+		<filename>index.html</filename>
+		<folder>forms</folder>
+		<folder>language</folder>
+	</files>
+	
+	<config>
+	</config>
+</extension>

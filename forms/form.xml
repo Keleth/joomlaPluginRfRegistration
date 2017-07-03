@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<fieldset name="tos"
+		label="PLG_RFREGISTRATION_PERSDATA_AGREE">
+		<field name="persdata_agree" type="checkbox"
+			default="0" filter="bool"
+			label="PLG_RFREGISTRATION_AGREE"
+			required="true"
+			value="1"/>			
+	</fieldset>
+</form>
